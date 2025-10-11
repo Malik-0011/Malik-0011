@@ -15,7 +15,6 @@ I'm a passionate and curious developer constantly learning about technology. Cur
 - **Other:** Problem-solving, UI/UX Fundamentals
 
 ## 📂 Featured Projects
-- [chai-and-react-series](https://github.com/Malik-0011/chai-and-react-series) — React series for beginners
 - [to-do](https://github.com/Malik-0011/to-do) — To-Do App with React and JavaScript
 
 ## 📫 Contact Me
