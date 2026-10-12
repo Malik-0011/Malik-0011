@@ -1,10 +1,10 @@
 # Hi, I'm Junaid Malik 👋
 
-I'm a passionate and curious developer constantly learning about technology. Currently, I'm focused on mastering frontend skills with **React** and **JavaScript**, working towards my goal of becoming a **Full Stack Developer**.
+I'm a passionate and curious developer constantly learning about technology. Currently, I'm focused on mastering full-stack skills with **NEXT-JS** working towards my goal of becoming a **Full Stack Developer**.
 
 ## 🚀 About Me
 - 🔭 Working on projects like a  a **Gym Website**
-- 🌱 Learning NEXTJS.
+- 🌱 Learning NEXT-JS.
 - 💡 Always curious about new technologies and best practices
 - 🤝 Open to collaboration and networking
 
