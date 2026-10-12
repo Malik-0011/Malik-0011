@@ -3,14 +3,14 @@
 I'm a passionate and curious developer constantly learning about technology. Currently, I'm focused on mastering frontend skills with **React** and **JavaScript**, working towards my goal of becoming a **Full Stack Developer**.
 
 ## 🚀 About Me
-- 🔭 Working on projects like a **To-Do App** and a **Gym Website**
-- 🌱 Learning React, polishing JavaScript, and starting backend with Node.js
+- 🔭 Working on projects like a  a **Gym Website**
+- 🌱 Learning NEXTJS.
 - 💡 Always curious about new technologies and best practices
 - 🤝 Open to collaboration and networking
 
 ## 🛠️ Skills
 - **Frontend:** React, JavaScript, HTML, CSS, Responsive Design
-- **Backend:** (Learning) Node.js, Express.js
+- **Backend:** Node.js, Express.js
 - **Tools:** Git, GitHub, VS Code, Chrome DevTools
 - **Other:** Problem-solving, UI/UX Fundamentals
 
