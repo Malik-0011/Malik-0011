@@ -15,7 +15,7 @@ I'm a passionate and curious developer constantly learning about technology. Cur
 - **Other:** Problem-solving, UI/UX Fundamentals
 
 ## 📂 Featured Projects
-- [to-do](https://github.com/Malik-0011/to-do) — To-Do App with React and JavaScript
+- [gym management system](https://github.com/Malik-0011/gymsoftassist) — gym management system with nextjs
 
 ## 📫 Contact Me
 - **LinkedIn:** [Junaid Malik](https://www.linkedin.com/in/junaid-malik0011/)
